@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of present distresses on non-conformists examined in the execution of an act, entituled, An Act Against Seditious Conventicles ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35633</idno>
+            <idno type="STC">Wing C967</idno>
+            <idno type="STC">ESTC R36278</idno>
+            <idno type="EEBO-CITATION">15626120</idno>
+            <idno type="OCLC">ocm 15626120</idno>
+            <idno type="VID">104251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1183:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of present distresses on non-conformists examined in the execution of an act, entituled, An Act Against Seditious Conventicles ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Oswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle act. --  1670.</term>
+               <term>Dissenters, Religious --  England --  Apologetic works.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:104251:1" rendition="simple:additions"/>
+            <head>The CASE of Preſent DISTRESSES ON Non-Conformiſts, EXAMINED: In the Execution of an Act, Entituled, <hi>An Act againſt Seditious Conventicles</hi> (whereof large Ex<g ref="char:EOLhyphen"/>perience hath manifeſted, that no Diſſenters are guilty): this Practice hath been of late taken up, that upon the Oath of ſome Informers, Con<g ref="char:EOLhyphen"/>victions are clancularly made, and Executions granted on the Goods of thoſe informed againſt, a firſt, ſecond, third time, <hi>&amp;c.</hi> without Notice, Warning or Summons, or any intimation of Pro<g ref="char:EOLhyphen"/>cedure againſt them, or allowance for them to make their own Defence.</head>
+            <p n="1">1. THis Practice is as contrary to the original Pattern of all Go<g ref="char:EOLhyphen"/>vernment, as unto the execution of Law in criminal Caſes. When <hi>Adam</hi> ſinned by the tranſgreſſion of a Penal Law, God was the only Governour of the World, and there was a temporal Penalty annex'd unto that Tranſgreſſion. But yet to manifeſt, that perſonal Conviction was to be the natural Right of every Tranſgreſſor, before the execution of Puniſhment, he himſelf the only Judge, tho abſolutely Omniſcient, deals with <hi>Adam</hi> perſonally, as to the matter of Fact, <hi>Haſt thou eaten of the tree, whereof I commanded thee that thou ſhouldſt not eat?</hi> and gave him the liberty of his own defence, (as that which was his right) before he denounced any Sentence againſt him. He is ſtill the ſupreme Governour of the World; and let Magiſtrates take heed how they deſpiſe that Preſident and Pattern of the adminiſtration of Juſtice in criminal Cauſes, which he hath given and preſcribed unto all Mankind.</p>
+            <p n="2">2. It is contrary to the light of Nature, and that in ſuch a Principle, as hath a great influence into the Conſtitution and Preſervation of Go<g ref="char:EOLhyphen"/>vernment in the World: and that is, <hi>That every man is obliged unto, and
+<pb n="2" facs="tcp:104251:2"/>is to be allowed the unblameable defence of himſelf and his own innocency,</hi> againſt evil and hurt from others. This the Law of God and Nature require of every man, and the whole figure of humane Juſtice doth allow; and that he may do this without Force or Violence, the Injury of others, or diſturbance of natural Order, is one of the principal bene<g ref="char:EOLhyphen"/>fits of Government in the World, and one chief end of its Inſtitution. If this be taken away, the Law of Nature is violated, the chief end of Government is deſtroyed, and all things are reduced to force and confuſion. This men are deprived of in this Practice, namely, of <hi>lawful ſelf-defence</hi> before Conviction, and the execution of Penalties. And it is to no purpoſe to pretend, that this is a matter of ſmall moment; ſo that altho there ſhould be a deviation in it from the common Rule, yet the Law of Nature in general may be kept inviolable: for that Law being the animating ſoul of all humane Government, as the whole in the whole, and the whole in every part, if it be wittingly contraveened in any inſtance, it tends to the diſſolution of the whole; and where any ſuch thing is admitted, it will ſully the Beauty, and weaken the rightful Power of any Government.</p>
+            <p n="3">3. It hath been alwayes rejected in all Nations, even among the Hea<g ref="char:EOLhyphen"/>then, who have exerciſed Government according unto the Rules of Rea<g ref="char:EOLhyphen"/>ſon and Equity. So the Laws and Uſage of the <hi>Romans</hi> is declared by <hi>Feſtus,</hi> Act. 25. <hi>It is not the manner of the Romans to deliver any man to die, before that he which is accuſed have the Accuſers face to face, and have licence to anſwer for himſelf concerning the crime laid againſt him.</hi> It is not of any weight to object, That this was in the caſe of <hi>death:</hi> for the reaſon of the Law is univerſal, namely, That every one who is charg'd with a <hi>Crime,</hi> in order unto Puniſhment, ſhould have liberty to anſwer for himſelf; and it was obſerved by them in all criminal Cauſes whatever. No inſtance can be given of their varying in this Proceſs, but it is noted as an Oppreſſion. And the ſame Practice is ſecured by the Laws and Uſages of all Civilized Nations: For,</p>
+            <p n="4">4. This procedure of allowing men, charged with any Crime, real or pretended, liberty to anſwer for themſelves before Judgement and Execution, is ſo manifeſtly grounded on Natural Equity, ſo inſeparable from the common Preſumptions of Right and Wrong amongſt Mankind, as that it could never be wreſted from them on any pretence whatſo<g ref="char:EOLhyphen"/>ever. It is a contradiction unto common ſenſe in Morality and Polity, for a man to be convicted of a Crime expoſing him to Penalty, and not be allow'd to make his own defence before ſuch Conviction: yea, let men call ſuch a Sentence and its Execution, by what name they pleaſe, there is no Conviction in the caſe; and it is ridiculous to call it ſo, where a man is not allow'd to defend himſelf, or plead his own inno<g ref="char:EOLhyphen"/>cency, if he be ready ſo to do. The common ſaying of <hi>qui ſtatuit ali<g ref="char:EOLhyphen"/>quid parte inauditâ, altera aequum licet ſtatuerit haud aequus fuit,</hi> is no leſs owned as unto its natural Equity, than that other, <hi>Quod tibi fieri non vis, alteri non feceris;</hi> and both of them ſufficiently condemn this Practice in the Conſciences of all men not blinded by prejudice or intereſt.</p>
+            <pb n="3" facs="tcp:104251:2"/>
+            <p n="5">5. The general end of Penal Laws, which alone make them warrant<g ref="char:EOLhyphen"/>able in Government, are inconſiſtent with ſuch clancular Convictions as are in this caſe pretended. Their firſt intention is Authority to in<g ref="char:EOLhyphen"/>quire into Offences, whether they are real or no, for the preſervation of publick Good and Peace. And if it be found, that the Complaints concerning them are cauſeleſs, the ſecond intention which reſpects Pu<g ref="char:EOLhyphen"/>niſhment, is ſuperſeded; as God declared in the caſe of <hi>Sodom,</hi> unto the Inhabitants whereof after inquiry, he granted a perſonal Conviction by the Angel he ſent amongſt them, unto whom they openly declared their own Guilt. To omit the firſt intention of Law, and to go <hi>per ſaltu</hi> unto the latter, is to make that which was deſigned for the good of all men, to be unto the danger of all, and ruin of many. For,</p>
+            <p n="6">6. The Practice deſign'd, takes away all Security of the Goods and Eſtates from many peaceable Subjects, even of all unto whom the Caſe extends; for every evil man is inabled hereby, for his own Profit and Advantage, to take the Goods of other men into his own Poſſeſſion, the Owner knowing nothing of the Cauſe of it, which Poſſeſſion ſhall be avowed legal. Now this is utterly contrary unto all good Govern<g ref="char:EOLhyphen"/>ment, and the principal end of the Law, which is to ſecure unto every man the poſſeſſion of his own Goods, until he be legally convicted (on the beſt Defence he can make for himſelf) that they ought by Law to be taken from him. But in this Caſe, the legal Right of one man unto his Goods, is transferred unto another, and that other inabled by force to take Poſſeſſion of them, before the true Owner is once asked why it ſhould not be ſo. The pretence of allowing him a liberty in ſome Caſes, to make uſe of an Appeal, and to ſue for his own Goods, when they are in the ſuppoſed legal Poſſeſſion of another, and he diſ<g ref="char:EOLhyphen"/>inabled for ſuch a Suit by the loſs of them (as many have been) is no help in this Caſe, nor gives the leaſt colour of Juſtice to this Pro<g ref="char:EOLhyphen"/>cedure.</p>
+            <p>To interpret the words in the Act, to give countenance unto this way of Procedure, is contrary to the known Rules of interpreting Laws of this nature: and theſe are firſt, That they are not to be made Snares to catch and harm men, without juſt cauſe, and a neceſſity there<g ref="char:EOLhyphen"/>on for publick Good. To make ſuch Engines of them, is to diveſt them of all Authority; nor can that Reverence that is due unto Go<g ref="char:EOLhyphen"/>vernment be preſerved, unleſs it be manifeſt, that not only the Laws, but alſo the Adminiſtration of them, are for publick Good; ſo as that they are not capable, in their genuine Senſe, to be made Snares for the hurt of men, in denying them their <hi>own juſt Defence.</hi> Nor can there be a more dangerous inroad made on the Security of the Subjects, as to their Property and Liberty, in and by the Adminiſtration of the Law, than a wreſting of it in any one Inſtance unto the hurt or wrong of any: and we do know, what conſequence the Interpretation and un<g ref="char:EOLhyphen"/>due Application of penal Statutes, with the wreſting them unto un<g ref="char:EOLhyphen"/>warrantable Severities, have had here in <hi>England.</hi> And it is a Rule of the ſame importance, That in dubious Caſes, ſuch Laws are to be inter<g ref="char:EOLhyphen"/>preted according to the Cuſtom and Uſage of proceedings in other Laws
+<pb n="4" facs="tcp:104251:3"/>of a like nature, and not be conſtrued unto the intereſt of Severity, eſpecially where 'tis uſed unto the Gain and Profit of other men: And what is the method of Conviction in all other Laws, towards perſons who do not decline a Trial, is known.</p>
+            <p n="8">8. But beſides all that hath been ſpoken as unto the reaſon of things in general; this Practiſe is directly contrary to, and inconſiſtent with the plain Sence and Intention of the Law it ſelf, whereof Execution is pretended; For there is a gradation in the penalty annexed unto a contrivance in the offence. The firſt Conviction is for Twenty pounds, the Second for Forty. And this will admit of no pretence, but that the perſon offending, muſt know of the firſt Conviction, that it may be a warning to him, to avoid the additional penalty, which is for con<g ref="char:EOLhyphen"/>tinuance in the ſame ſuppoſed offence after the firſt admonition. But in the preſent practiſe, no ſuch thing is allow'd, but Convictions are made for the firſt, ſecond, and third Offence, without any tryal of what effect the firſt would be, which is contrary to the Senſe of the Law, and an open reſting of it unto the ruin of men. And</p>
+            <p>Laſtly; Theſe Convictions are made on the Oaths of the Informers, who at preſent are a ſort of men, ſo deſtitute of all reputation on the account of their indigency contracted by their profligate converſation, as that men of the like qualifications are prohibited by many Laws, from bearing Teſtimony in any caſe, tho in all other things the Proceſs be legal, open and plain. To admit ſuch perſons to give Oaths in pri<g ref="char:EOLhyphen"/>vate, without calling or ſummoning them to anſwer, who are charg'd by them, and thereon to put them into an actual poſſeſſion of their Goods, unto their own uſe and advantage, is a practiſe which <hi>England</hi> hath had as yet no preſident for, nor found out an eſpecial name where<g ref="char:EOLhyphen"/>by to call it. Hereon Perjuries have been multiplied amongſt this ſort of perſons (whereof ſundry of them have been legally convicted) to the diſhonour of God, and great Increaſe of the ſin of the Land; and whatever becomes of Nonconformiſts, if the ſame kind of procedure ſhould be applied unto other caſes, (as why it may not be ſo, if in this inſtance, the bounds of the Law of nature, and the uſages of mankind ſhould be broken down) others would find themſelves aggrieved as well as they.</p>
+            <p>And theſe things are humbly ſubmitted unto the Conſideration of the Judges, Juſtices, and Juries, even all that are concerned in the Ad<g ref="char:EOLhyphen"/>miniſtration or Execution of the Law.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Oſwell</hi> in the <hi>Old Change,</hi> 1682.</p>
+            <pb facs="tcp:104251:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
